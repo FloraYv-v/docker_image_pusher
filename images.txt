@@ -16,6 +16,7 @@ python:3.7.17
 python:3.7.17-alpine
 python:3.8.20
 python:3.8.20-alpine
+python:3.9.20
 python:3.6.15
 python:3.6.15-alpine
 
@@ -23,6 +24,8 @@ openjdk:8u201-jdk-alpine
 openjdk:7u211-jdk-alpine
 
 maven:3.8.8
+maven:3.6.3
+maven:3.6.3-openjdk-8
 
 tomcat:8.5.100-jre8
 
